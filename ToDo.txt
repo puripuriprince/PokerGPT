@@ -1,0 +1,9 @@
+the game is texas holdem, variable for number of decks
+
+the oddsfinder should calculate poker pocket odds, preflop, post flop and river
+
+so it should play perfectly and check if the other players are playing perfectly
+
+
+the main bluffer uses the openai api to check context and handle the bluffs
+* a personality profile for every enemy player to mix the real odds we have and bluff odds
